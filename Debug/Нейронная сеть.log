@@ -1,0 +1,14 @@
+﻿  neyro_on_cifar.cpp
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(147): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(148): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(150): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(152): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(153): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(154): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(156): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(157): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(158): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\ирина\source\repos\нейронная сеть\нейронная сеть\neyro_on_cifar.cpp(159): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Нейронная сеть.vcxproj -> C:\Users\Ирина\source\repos\Нейронная сеть\Debug\Нейронная сеть.exe
